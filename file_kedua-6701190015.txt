@@ -2,3 +2,7 @@ IPK TINGKAT 1
 
 IP Semester 1 = 4.00
 IP Semester 2 = 4.00
+
+IPK TINGKAT 2
+
+IP Semester 3 = 4.00
