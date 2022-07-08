@@ -3,4 +3,4 @@ Nim			: 6701190015
 Tempat Tanggal Lahir	: Kebumen, 3 Juni 2001
 IPK Terakhir		: 4.00
 Hobi			: Jalan-jalan
-Cita-cita		: Data Analis
+Cita-cita		: UX Designer
